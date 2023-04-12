@@ -1,0 +1,12 @@
+Comando	Descrição
+init	Comando para iniciar o repositório git
+
+Comando	Descrição
+add	Comando para adicionar um ou mais arquivos em staging
+arquivo.txt	Nome de um ou mais arquivos
+
+Comando	Descrição
+commit	Comando para lidar com commits
+-m	Flag para escrever uma mensagem de commit
+“alterações”	Mensagem descrevendo ajustes
+informação extra	Sem usar a flag -m um editor será aberto para digitar a mensagem de commit
